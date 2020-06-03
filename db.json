@@ -1,5 +1,6 @@
 {
-	"acctID": "ABCD",
+  "productMaster": [
+    {"acctID": "ABCD",
 	"productCode": "1234567890",
 	"productDesc1": "Product Details1",
 	"productDesc2": "Product Details2",
@@ -13,5 +14,6 @@
 	"countryOfOrigin":"country",
 	"hsCode": "0123456789",
 	"hsCodeDesc":"HS Code Description",
-	"generalDesc": "General Description"
+	"generalDesc": "General Description"}
+	]
 }
