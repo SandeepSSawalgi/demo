@@ -7,6 +7,6 @@
   ],
   "profile": { "name": "typicode" },
   "productMaster": [
-    {"id": "46b461ec-4df4-410b-91c5-bb88c6ac4743","acctID": "ABCD","productCode": "1234567890","productDesc1": "Product Details1","productDesc2": "Product Details2","productDesc3": "product Details3","productDesc4": "product Details4","productDesc5": "product Details5","productDesc6": "product Details6","productDesc7": "product Details7","productDesc8": "product Details8","productDesc9": "product Details9","countryOfOrigin":"country","hsCode": "0123456789","hsCodeDesc":"HS Code Description","generalDesc": "General Description"}
+    {"id": "46b461ec-4df4-410b-91c5-bb88c6ac4743","version": 0,"createdBy": null,"createdDate": "2020-05-29T07:08:39.062+0000",	"updatedBy": null,"updatedDate": "2020-05-29T07:08:39.062+0000","acctID": "ABCD","productCode": "1234567890","productDesc1": "Product Details1","productDesc2": "Product Details2","productDesc3": "product Details3","productDesc4": "product Details4","productDesc5": "product Details5","productDesc6": "product Details6","productDesc7": "product Details7","productDesc8": "product Details8","productDesc9": "product Details9","countryOfOrigin":"country","hsCode": "0123456789","hsCodeDesc":"HS Code Description","generalDesc": "General Description"}
    ] 
 }
